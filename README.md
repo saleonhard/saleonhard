@@ -1,4 +1,4 @@
-# Hello, I'm Leonardo Aquino 👋
+# 👋 Hi there, I'm Leonardo Aquino
 
 <h3 align="left">👩‍💻 About Me</h3>
 <ul>
