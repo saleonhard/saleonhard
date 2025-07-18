@@ -47,15 +47,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h3 align="left">👁️ Visits</h3>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saleonhard/count.svg?"  />
-</div>
-
-###
